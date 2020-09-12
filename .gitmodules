@@ -4,3 +4,6 @@
 [submodule "1_GitRemoteCopy"]
 	path = 1_GitRemoteCopy
 	url = git@github.com:Yo371/1_GitRemoteCopy.git
+[submodule "2_maven"]
+	path = 2_maven
+	url = git@github.com:Yo371/2_mvn.git
