@@ -1,0 +1,6 @@
+[submodule "1_Git"]
+	path = 1_Git
+	url = git@github.com:Yo371/1_Git.git
+[submodule "1_GitRemoteCopy"]
+	path = 1_GitRemoteCopy
+	url = git@github.com:Yo371/1_GitRemoteCopy.git
