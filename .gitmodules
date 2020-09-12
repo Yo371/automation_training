@@ -7,3 +7,6 @@
 [submodule "2_maven"]
 	path = 2_maven
 	url = git@github.com:Yo371/2_mvn.git
+[submodule "Java"]
+	path = Java
+	url = git@github.com:Yo371/JavaTasks.git
