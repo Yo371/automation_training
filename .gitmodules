@@ -10,3 +10,9 @@
 [submodule "Java"]
 	path = Java
 	url = git@github.com:Yo371/JavaTasks.git
+[submodule "JavaTasks_2"]
+	path = JavaTasks_2
+	url = https://github.com/Yo371/JavaTasks_2.git
+[submodule "Java2"]
+	path = Java2
+	url = https://github.com/Yo371/JavaTasks_2.git
